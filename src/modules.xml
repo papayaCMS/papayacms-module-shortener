@@ -1,0 +1,17 @@
+<?xml version="1.0"  encoding="ISO-8859-1" ?>
+<modulegroup>
+  <name>Shortener</name>
+  <description>A simple connector to shorten URLs using an external API.</description>
+  <prefix>PapayaModuleShortener</prefix>
+  <modules>
+    <module type="connector"
+      guid="6451e8560ad3c880d9ba17075d0a408d"
+      name="Shortener Connector"
+      class="PapayaModuleShortenerConnector"
+      file="Connector.php">
+      The connector allows other modules to access the shortening service.
+    </module>
+  </modules>
+  <tables>
+  </tables>
+</modulegroup>
