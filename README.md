@@ -1,4 +1,4 @@
-# papaya CMS - Module Twitter
+# papaya CMS - Module Shortener
 
 [![Build Status](https://travis-ci.org/papayaCMS/papayacms-module-shortener.svg?branch=master)](https://travis-ci.org/papayaCMS/papayacms-shortener)
 [![License](https://poser.pugx.org/papaya/module-shortener/license.svg)](https://packagist.org/packages/papaya/module-shortener)
